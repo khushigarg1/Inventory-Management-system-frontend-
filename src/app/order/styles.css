@@ -1,0 +1,23 @@
+/* styles.css */
+.MuiInputBase-root {
+    background-color: white;
+  }
+  
+  .MuiInputBase-input {
+    color: black;
+  }
+  
+  .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline,
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: black;
+  }
+  
+  .MuiButton-contained {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .MuiButton-contained:hover {
+    background-color: #125699;
+  }
+  
